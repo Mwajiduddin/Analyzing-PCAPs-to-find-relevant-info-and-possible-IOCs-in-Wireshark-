@@ -1,6 +1,5 @@
-<p align="center"> 
-<h1>Analyzing PCAPs to find relevant info and possible indicators of compromise (IOCs) in Wireshark</h1>
-</p>
+<h1 align="center">Analyzing PCAPs to find relevant info and possible indicators of compromise (IOCs) in Wireshark</h1>
+
 
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-/blob/main/Screenshot%202026-06-08%20163048.png" />
