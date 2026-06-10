@@ -1,6 +1,6 @@
 <h1 align="center">Analyzing PCAPs to find relevant info and possible indicators of compromise (IOCs) in Wireshark</h1>
 
-
+In this lab from SBT’s Blue Team Level 1 course we’ll be analyzing three different PCAPs to find pertinent data that shows evidence of a compromise.
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Analyzing-PCAPs-to-find-relevant-info-and-possible-IOCs-in-Wireshark-/blob/main/Screenshot%202026-06-08%20163048.png" />
 </p>
